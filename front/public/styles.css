@@ -1,0 +1,105 @@
+html, body{
+    margin: 0;
+    height: 100%;
+}
+
+.loginPage {
+    background: linear-gradient(270deg, #bce7ff 1.14%, #fcfefe 100%);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+}
+.reg-form-body{
+    background: linear-gradient(270deg, #bce7ff 1.14%, #fcfefe 100%);
+}
+.reg-form-quest{
+    color: #000;
+    font-family: Manrope;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 21px;
+}
+.loginForm {
+    color: white;
+}
+.form-page{
+    background: linear-gradient(270deg, #bce7ff 1.14%, #fcfefe 100%);
+    padding: 80px 0;
+
+}
+.form{
+    border-radius: 40px;
+    background: #DEDEDE;
+    width: 570px;
+    padding: 0 0 30px 0;
+    margin: auto;
+}
+.form-title{
+    color: #1b1d1f;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    margin: 36px 0 36px 0;
+}
+.form-fogot-pass{
+    color: #8B93A6;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 0;
+}
+.form-input{
+    background: #fff;
+    margin-bottom: 20px;
+}
+.form-label{
+    font-family: Manrope;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000;
+}
+.form-field{
+    text-align: left;
+    margin-bottom: 24px;
+}
+.form-btn{
+    font-family: Montserrat;
+    background: #FFC700;
+    color: #424242;
+    width: 438px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    border: none;
+    padding: 12px 24px;
+    cursor: pointer;
+    margin-top: 4px;
+    margin-bottom: 20px;
+}
+.noacc-question{
+    font-family: Manrope;
+    color: #000;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.noacc-link{
+    font-family: Manrope;
+    color: #C99A00;
+    font-style: normal;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin: 0 10px;
+}
